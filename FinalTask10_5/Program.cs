@@ -18,7 +18,6 @@
                 Console.WriteLine("Результат: " + calculator.Sum(x, y));
                 Console.ReadKey();
             }
-
         }
 
         static int ReadValue()

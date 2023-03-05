@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex10_3_1", "Ex10_3_1\Ex10_3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex10_3_2", "Ex10_3_2\Ex10_3_2.csproj", "{E8C503D3-7425-44D4-B71B-D9623CE8570E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex10_4_4", "Ex10_4_4\Ex10_4_4.csproj", "{C699D0A6-E908-4D2F-868E-27F462AEC7AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex10_4_4", "Ex10_4_4\Ex10_4_4.csproj", "{C699D0A6-E908-4D2F-868E-27F462AEC7AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTask10_5", "FinalTask10_5\FinalTask10_5.csproj", "{35D7C089-2FFF-4F3B-BAC6-D994FF3391CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalTask10_5", "FinalTask10_5\FinalTask10_5.csproj", "{35D7C089-2FFF-4F3B-BAC6-D994FF3391CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTask10_5_2", "FinalTask10_5_2\FinalTask10_5_2.csproj", "{FA22A990-AB4B-484D-8B88-1CDBD2825A98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{35D7C089-2FFF-4F3B-BAC6-D994FF3391CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35D7C089-2FFF-4F3B-BAC6-D994FF3391CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35D7C089-2FFF-4F3B-BAC6-D994FF3391CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA22A990-AB4B-484D-8B88-1CDBD2825A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA22A990-AB4B-484D-8B88-1CDBD2825A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA22A990-AB4B-484D-8B88-1CDBD2825A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA22A990-AB4B-484D-8B88-1CDBD2825A98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
